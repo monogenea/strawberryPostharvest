@@ -10,15 +10,19 @@ locale:
 [1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
 
 attached base packages:
-[1] stats     graphics  grDevices utils     datasets 
-[6] methods   base     
+[1] parallel  stats     graphics  grDevices utils    
+[6] datasets  methods   base     
 
 other attached packages:
-[1] RColorBrewer_1.1-2 ellipse_0.4.1      xlsx_0.6.1        
-[4] pheatmap_1.0.12    limma_3.38.3      
+ [1] pcaMethods_1.74.0   Biobase_2.42.0     
+ [3] BiocGenerics_0.28.0 stringr_1.4.0      
+ [5] readxl_1.3.1        RColorBrewer_1.1-2 
+ [7] ellipse_0.4.1       xlsx_0.6.1         
+ [9] pheatmap_1.0.12     limma_3.38.3       
 
 loaded via a namespace (and not attached):
- [1] colorspace_1.4-1 scales_1.0.0     compiler_3.5.1  
- [4] tools_3.5.1      gtable_0.3.0     yaml_2.2.0      
- [7] Rcpp_1.0.2       grid_3.5.1       xlsxjars_0.6.1  
-[10] rJava_0.9-11     munsell_0.5.0   
+ [1] Rcpp_1.0.2       xlsxjars_0.6.1   grid_3.5.1      
+ [4] cellranger_1.1.0 gtable_0.3.0     magrittr_1.5    
+ [7] scales_1.0.0     stringi_1.4.3    tools_3.5.1     
+[10] munsell_0.5.0    yaml_2.2.0       compiler_3.5.1  
+[13] colorspace_1.4-1 rJava_0.9-11    
