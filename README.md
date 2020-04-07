@@ -1,6 +1,6 @@
 ## Strawberry Post-harvest MS
 
-This repository contains the datasets and R scripts necessary to reproduce the core analyses reported in XXXX et al. 2020.
+This repository contains the datasets and R scripts necessary to reproduce the core analyses reported in [Pott, D.M. *et al*. (2020)](https://www.sciencedirect.com/science/article/pii/S0308814620306099).
 
 # Instructions
 
